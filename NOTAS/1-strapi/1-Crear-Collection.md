@@ -61,3 +61,4 @@
     `Basic Settings`: Single media
     `Advanced Settings`: Required field / 'Select allowed types of media' ► images
 3. Obtenemos los books (como explicamos en 4-Api.md)
+/* En el caso que agreguemos mas colleciones una vez hecho el deploy de la aplicacion, basta con subir los nuevos cambios a github y el deploy se va a actualizar automaticamente */
